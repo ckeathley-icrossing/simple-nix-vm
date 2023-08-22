@@ -19,3 +19,7 @@ or
 ```bash
 nix-build '<nixpkgs/nixos>' -A vm -I nixos-config=vm.nix
 ```
+
+or 
+
+https://nixos.org/manual/nixpkgs/unstable/#sec-darwin-builder
