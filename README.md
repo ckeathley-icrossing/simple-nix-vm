@@ -14,3 +14,8 @@ Then run with:
 $ ./result/bin/run-nixos-vm
 ```
 
+or
+
+```bash
+nix-build '<nixpkgs/nixos>' -A vm -I nixos-config=vm.nix
+```
