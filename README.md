@@ -23,4 +23,5 @@ nix-build '<nixpkgs/nixos>' -A vm -I nixos-config=vm.nix
 or 
 
 https://nixos.org/manual/nixpkgs/unstable/#sec-darwin-builder
+
 https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html
