@@ -24,3 +24,4 @@ or
 
 - https://nixos.org/manual/nixpkgs/unstable/#sec-darwin-builder
 - https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html
+- https://github.com/NixOS/nix/issues/2286
